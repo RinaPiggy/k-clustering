@@ -1,5 +1,5 @@
-This is the code repository for Bachelor thesis:
-Cheng, J. &  Wan, P. (2021). Clustering Methods of Multivariate Extremes.
+This is the code repository for Bachelor thesis: <br>
+** Cheng, J. &  Wan, P. (2021). Clustering Methods of Multivariate Extremes. **
 
 For reference of this thesis and code repository, we suggest the bibtex below: <br>
 @thesis{cheng2021clustering, <br>
